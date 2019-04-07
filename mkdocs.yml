@@ -1,0 +1,7 @@
+site_name: DataCubes
+pages:
+- Home: index.md
+- Introduction: introduction.md
+- Getting Started: getting_started.md
+- Where To Look: where_to_look.md
+- API: api.md
